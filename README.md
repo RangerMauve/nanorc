@@ -14,3 +14,9 @@ Key bindings and configurations to make nano behave more like a graphical text e
 - Track cursor position to make closing / reopening easier
 - Autoindent enabled
 - Tab size of 4 (You'll probably want to change this)
+
+# How to use
+
+- Copy the `.nanorc` file to `~/.nanorc`
+- Change anything you don't like / want added
+- Ditch vim / emacs / graphical editors
