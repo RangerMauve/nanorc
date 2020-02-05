@@ -12,6 +12,7 @@ bind ^z undo all
 bind ^y redo  all
 bind ^g gotoline all
 bind ^f whereis all
+bind ^q cancel yesno
 
 # None of these are working
 #bind ^/ comment all
