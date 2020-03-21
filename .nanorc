@@ -25,5 +25,9 @@ set showcursor
 set positionlog
 set linenumbers
 set constantshow
-set tabsize 4
+set tabsize 2
 set autoindent
+set mouse
+set whitespace "»⋅"
+set wordchars "_"
+set zap
