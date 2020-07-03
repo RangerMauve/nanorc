@@ -8,6 +8,7 @@ Key bindings and configurations to make nano behave more like a graphical text e
 - Ctrl+C/X/V for usual copy paste stuff
 - Ctrl+Z/Y to undo/redo
 - Ctrl+F to search
+- Ctrl+R replace
 - Ctrl+G to go to a line number (and column)
 - Ctrl+Space autocomplete token
 
